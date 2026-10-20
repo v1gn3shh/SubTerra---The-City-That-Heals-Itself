@@ -7,6 +7,10 @@ It includes the landing page, real-map 3D city, five underground utility network
 sensor simulation, camera presets, X-ray and exploded views, failure prediction,
 agent decision timeline, approval modes, repair crews, and outcome summaries.
 
+**Live website:** https://v1gn3shh.github.io/undergrid-replica/
+
+**Interactive twin:** https://v1gn3shh.github.io/undergrid-replica/#twin
+
 ## Run
 
 Install **Node.js 20 or newer**, then:
@@ -106,7 +110,10 @@ relative assets and hash routes. Serve over HTTP(S), not by opening the HTML as 
 `file://` URL. No server API or SPA rewrite rule is necessary.
 
 GitHub Actions runs the checks and uploads a `undergrid-static-site` build artifact.
-It does not enable Pages or publish the repository.
+Successful pushes to `main` also deploy the `dist/` output to GitHub Pages. Pull
+requests run verification without publishing. The repository's Pages source
+must be **GitHub Actions**, because the website is built from `public/` into
+`dist/`; the repository root is not the website's document root.
 
 ## Attribution
 

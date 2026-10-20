@@ -79,4 +79,5 @@ overflow `clip`.
   continued successfully.
 - Tests exercised representative interactions and both automatic and manually
   approved completion paths, not every possible sequence of clicks.
-- No public hosting deployment is part of this GitHub export.
+- GitHub Pages deployment is configured separately in the verification workflow:
+  successful `main` builds publish `dist/` with the official Pages actions.
