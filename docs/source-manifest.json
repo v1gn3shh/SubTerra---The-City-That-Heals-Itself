@@ -1,0 +1,138 @@
+{
+  "capturedOn": "2026-10-20",
+  "reference": "https://undergrid.kanbanstudios.ae/#twin",
+  "assets": [
+    {
+      "path": "favicon.svg",
+      "url": "https://undergrid.kanbanstudios.ae/favicon.svg",
+      "bytes": 1127,
+      "sha256": "c5867982cff43f4a97c1909db2d33c8e29cac8b942aea418a8e599efa0dcd9a3"
+    },
+    {
+      "path": "landing/approval.jpg",
+      "url": "https://undergrid.kanbanstudios.ae/landing/approval.jpg",
+      "bytes": 434304,
+      "sha256": "add8eb7db3863a0585831f3e658d73eac1235318a8041bcbce90587072db05e0"
+    },
+    {
+      "path": "landing/district.jpg",
+      "url": "https://undergrid.kanbanstudios.ae/landing/district.jpg",
+      "bytes": 117051,
+      "sha256": "43c0dca924ce0e633798a9f18a709f7392681c24e0615c7689845eb0f9840598"
+    },
+    {
+      "path": "landing/drive.jpg",
+      "url": "https://undergrid.kanbanstudios.ae/landing/drive.jpg",
+      "bytes": 271428,
+      "sha256": "6886c514d57ea10cbf55cb848020c0b984740d485f05e9367565260cb7a19bc3"
+    },
+    {
+      "path": "landing/twin.jpg",
+      "url": "https://undergrid.kanbanstudios.ae/landing/twin.jpg",
+      "bytes": 338568,
+      "sha256": "42788808bde5e83b7e08c36ba72ec35c2d5e8db7427c4759861e7da677b5c4ce"
+    },
+    {
+      "path": "landing/xray.jpg",
+      "url": "https://undergrid.kanbanstudios.ae/landing/xray.jpg",
+      "bytes": 352558,
+      "sha256": "651ab07975757bc8caf0afa96dd13d6004578e0628dad1c2c4ec71556b0c2db1"
+    },
+    {
+      "path": "assets/fragment-mono-latin-400-normal-BYwT3kSJ.woff",
+      "url": "https://undergrid.kanbanstudios.ae/assets/fragment-mono-latin-400-normal-BYwT3kSJ.woff",
+      "bytes": 19516,
+      "sha256": "7404d01cae6b6a59100c49a8747711231335410f84bff8bb006d6063e14e0f02"
+    },
+    {
+      "path": "assets/fragment-mono-latin-400-normal-yxdJ5AmL.woff2",
+      "url": "https://undergrid.kanbanstudios.ae/assets/fragment-mono-latin-400-normal-yxdJ5AmL.woff2",
+      "bytes": 25224,
+      "sha256": "44c4e39bff5e76652a24a872cbebabccbcfb20f62c4633b27c1f2745cba86b56"
+    },
+    {
+      "path": "assets/fragment-mono-latin-ext-400-normal-BbKYyvR9.woff2",
+      "url": "https://undergrid.kanbanstudios.ae/assets/fragment-mono-latin-ext-400-normal-BbKYyvR9.woff2",
+      "bytes": 14112,
+      "sha256": "54f55ef4bf2e5789b18f862e037e4eb28920048f1d8e7892c090fda9b698312d"
+    },
+    {
+      "path": "assets/fragment-mono-latin-ext-400-normal-CT4YFKeK.woff",
+      "url": "https://undergrid.kanbanstudios.ae/assets/fragment-mono-latin-ext-400-normal-CT4YFKeK.woff",
+      "bytes": 9552,
+      "sha256": "db35138bed2ae171d6402d0c114e2dbff2f755fbd1ff79a50a3817419fa46424"
+    },
+    {
+      "path": "assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
+      "url": "https://undergrid.kanbanstudios.ae/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
+      "bytes": 7420,
+      "sha256": "2317fa4bb293c9c0b110e18315d529235c47a0ddd3338cea3d8c7955e927899e"
+    },
+    {
+      "path": "assets/geist-cyrillic-wght-normal-BEAKL7Jp.woff2",
+      "url": "https://undergrid.kanbanstudios.ae/assets/geist-cyrillic-wght-normal-BEAKL7Jp.woff2",
+      "bytes": 15084,
+      "sha256": "6894439694946a589d157ece003086960a6a4013d74a813dab7602efdb3d8c09"
+    },
+    {
+      "path": "assets/geist-latin-ext-wght-normal-DC-KSUi6.woff2",
+      "url": "https://undergrid.kanbanstudios.ae/assets/geist-latin-ext-wght-normal-DC-KSUi6.woff2",
+      "bytes": 16512,
+      "sha256": "824f485b5d26e2f2da3c2b236132ece1bc8e4e43373452950bb0e40548b4313f"
+    },
+    {
+      "path": "assets/geist-latin-wght-normal-BgDaEnEv.woff2",
+      "url": "https://undergrid.kanbanstudios.ae/assets/geist-latin-wght-normal-BgDaEnEv.woff2",
+      "bytes": 29400,
+      "sha256": "19f9c92546aa300c312235e3125af1b81394d8db9a4bc4a425cd5b641d2d54e1"
+    },
+    {
+      "path": "assets/geist-vietnamese-wght-normal-6IgcOCM7.woff2",
+      "url": "https://undergrid.kanbanstudios.ae/assets/geist-vietnamese-wght-normal-6IgcOCM7.woff2",
+      "bytes": 8004,
+      "sha256": "8fa40e5d248247735eb97a0bd593b8852440430600d6ba01364c31fe0abc1fe1"
+    },
+    {
+      "path": "assets/index-BOZmZBNH.js",
+      "url": "https://undergrid.kanbanstudios.ae/assets/index-BOZmZBNH.js",
+      "bytes": 1299282,
+      "sha256": "3689e49f644b25ad5b219dc7dfd0c344a7b20490e99e7cd0453a87a7ff6f65b5"
+    },
+    {
+      "path": "assets/index-DdzneKvl.css",
+      "url": "https://undergrid.kanbanstudios.ae/assets/index-DdzneKvl.css",
+      "bytes": 124099,
+      "sha256": "1581398fafdaa7fa7cf5d662243aea083e3c4fa2087e7aff641ed4172824c1da"
+    },
+    {
+      "path": "assets/instrument-sans-latin-ext-wght-normal-B5bTHO_g.woff2",
+      "url": "https://undergrid.kanbanstudios.ae/assets/instrument-sans-latin-ext-wght-normal-B5bTHO_g.woff2",
+      "bytes": 11144,
+      "sha256": "c4fcfea41f2c1cfeea9211fa43679845454a1d0e0d7e95e069c7e73c4ae302d2"
+    },
+    {
+      "path": "assets/instrument-sans-latin-wght-normal-BbzFLZTg.woff2",
+      "url": "https://undergrid.kanbanstudios.ae/assets/instrument-sans-latin-wght-normal-BbzFLZTg.woff2",
+      "bytes": 30092,
+      "sha256": "2ee17598a98d8a59e4df8152d015bec9ab8e4d5672cc0ab42bef806b568e3971"
+    },
+    {
+      "path": "assets/r3f-CHLlfBVe.js",
+      "url": "https://undergrid.kanbanstudios.ae/assets/r3f-CHLlfBVe.js",
+      "bytes": 1504397,
+      "sha256": "35690b358efd764a34d09041b6103dff6430cdf859f03158f71e0b637c1c0a48"
+    },
+    {
+      "path": "assets/rolldown-runtime-hePW80VL.js",
+      "url": "https://undergrid.kanbanstudios.ae/assets/rolldown-runtime-hePW80VL.js",
+      "bytes": 716,
+      "sha256": "580ad8c58061a4dde99bde0a56905e382f0568516ee2f5b84dbfb52085709021"
+    },
+    {
+      "path": "assets/three-BLKpUzSy.js",
+      "url": "https://undergrid.kanbanstudios.ae/assets/three-BLKpUzSy.js",
+      "bytes": 3774,
+      "sha256": "cceb4f251911b06458aa0089555ced90ed24e86df30460799cc4c5faeccc1c41"
+    }
+  ]
+}

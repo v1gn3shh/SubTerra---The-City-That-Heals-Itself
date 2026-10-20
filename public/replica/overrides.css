@@ -1,0 +1,10 @@
+/* The city is a fixed viewport, not a scroll container. `hidden` allowed focus
+   and scrollIntoView to shift the whole scene when a panel extended below it.
+   Keep scrolling inside the panel that owns the overflowing content. */
+.app {
+  overflow: clip;
+}
+
+.ask-a {
+  unicode-bidi: plaintext;
+}
